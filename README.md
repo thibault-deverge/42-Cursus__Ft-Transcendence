@@ -1,6 +1,6 @@
 # <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;"> This project is part of my cursus at School 42 <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;">
 
-# Live Demo: **<a src="https://ft-transcendence.pro">ft-transcendence.pro</a>**
+# Live Demo: **[ft-transcendence.pro](https://ft-transcendence.pro)**
 
 ![Pong Game Demo](./django/single_page/static/images/logo.png)
 
