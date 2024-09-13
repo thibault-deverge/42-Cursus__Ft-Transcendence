@@ -51,3 +51,7 @@ Live Demo: ft-transcendence.pro
 - **Basic Controls**:  
   - Use arrow keys to move the paddle up and down.
   - Press 'Space' to pause the game.
+
+## Rating
+
+![Rating](./ressources_readme/rating.png)
